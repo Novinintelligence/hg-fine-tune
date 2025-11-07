@@ -22,7 +22,7 @@ fi
 
 # Clone the repository (replace with your actual repo)
 # You can set REPO_URL env var to override
-REPO_URL="${REPO_URL:-https://github.com/ollieherbert/unified-homesec-ai.git}"
+REPO_URL="${REPO_URL:-https://github.com/Novinintelligence/hg-fine-tune.git}"
 HF_REPO="${HF_REPO:-ollieherbert/phi3-homesec-v1}"
 echo "📥 Cloning repository from $REPO_URL..."
 
