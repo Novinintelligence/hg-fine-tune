@@ -1,0 +1,11 @@
+transformers==4.44.0
+datasets
+peft
+trl
+bitsandbytes
+accelerate
+torch
+faker
+numpy
+scipy
+pandas
